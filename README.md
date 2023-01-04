@@ -6,10 +6,12 @@
 - asigntes clsftnes
 - elmntald apreancs
 - adjusted inhertnc
+- relative targetin
 
-# ~/Aoi.css
+# ~/A.css
 
 ## :root {
 ## }html {
 ## }body {
+### }body *:hover {
 }
