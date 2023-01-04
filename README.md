@@ -4,6 +4,8 @@
 
 - rdfintes varibles
 - asigntes clsftnes
+- elmntald apreancs
+- adjusted inhertnc
 
 # ~/Aoi.css
 
