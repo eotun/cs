@@ -1,4 +1,4 @@
-`~/cs:Aoi-css`
+`~/cs:Acsoi`
 
 # cs-libr
 
