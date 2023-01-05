@@ -1,20 +1,29 @@
-Acsoi—cs templayoute libr
 
-:no_entry_sign: **WiP—TbR**
+NativElmntual Css-styling
 
-# featurs
+* *Relapositional*—'arget native elements in flow.
+* *Nested & Cascading*—Represent data hierarchy in DOM-tree: limited contextual variablheritance.
+* *preasifxgndt clasftne*—custom~optim~debug·able
 
-* asigntes clsftnes
-* elmntald apreancs
-* Prefixed clases; custom~optim~debug·able styles
-* relapositve targetin native elements
-* Rdfinted CSS; resets, flows, inheritance
-* Cascading varibles; redefinable & contextual inheritance
-* Nested elements—directory-tree representation
+# modular Css-libray
+
+### A.css
+
+*rdefsintelmntal*—reset element default flow & appearance
+
+## StylExtend
+
 * Navigation gathers across the natural document flow
-* Fluid sizing
+* directory_tree-representation
+* Fluid wsziegrhavty
+* direcft
+* gcradoleur
+* Typography
 
-# intal
+## instal
+
+> **Warning**
+> WiP—TbR
 
 ```
 git clone ~ /A/cs
@@ -22,8 +31,6 @@ git clone ~ /A/cs
 ```
 
 # ~/A.css
-
-directo, weighravty, gradoleur
 
 ## :root {
 ## }html {
