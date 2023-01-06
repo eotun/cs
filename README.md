@@ -30,10 +30,13 @@ git clone ~ /A/cs
 +<link href="/A/cs/A.css" type="text/css" rel="stylesheet">
 ```
 
-# ~/A.css
+# Struce
 
-## :root {
-## }html {
-## }body {
-### }body *:hover {
+## Q.css—variables
+
+## A.css—assingtment
+
+### :root {
+### }html {
+### }body {
 }
