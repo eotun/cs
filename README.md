@@ -1,6 +1,8 @@
 
 Modular & rdefsintelmntal CSS-gluidbray
 
+> Provides default CSS-rules & a thematical frame for code organisation & to work with variables.
+
 ## Relapositnl
 
 target native elements & their relative positions in the document flow

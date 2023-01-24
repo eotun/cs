@@ -12,7 +12,6 @@ html {
   margin: 0;
   border-width: 0;
 }
-body *:hover {z-index: 1;}
 body {
   line-height: 1em;
   background-position: 50% 50%;
