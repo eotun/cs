@@ -67,6 +67,10 @@ Gather sticky navigation elements throughout the flow.
 address {position: sticky;top: 0;bottom: 0;}
 ```
 
+## Monocharacterized
+
+Margins based on monospace characters. 
+
 ## StylExtend
 
 * Fluid wsziegrhavty
